@@ -1,0 +1,133 @@
+.top-container{
+  background-color: #bce6eb;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-size: 6.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #0f3057;
+  line-height: 0;
+}
+
+.face{
+  width: 20%;
+  height: 20%;
+}
+
+.title{
+  font-weight: normal;
+}
+
+h2{
+  font-family: 'Lora', serif;
+  font-size: 2.5rem;
+  color: #008891;
+}
+
+h3{
+  font-family: 'Lora', serif;
+  color: #11999E;
+}
+h4{
+  font-family: 'Lora', serif;
+  color: #0f3057;
+}
+/* */
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+/***IMAGES****/
+.mountain{
+  width: 60%;
+
+}
+.mountain2{
+position: relative;
+widows: 40%;
+left: 200px;
+}
+.web{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+.accounts{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.apple{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.java{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bot-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.hotel{
+  float: left;
+  width: 20%;
+  margin-right: 30px;
+}
+.probel{
+  float: right;
+  width: 10%;
+
+  margin-right: 30px;
+}
+.damco{
+  float: left;
+  width: 10%;
+  margin-right: 30px;
+}
+.experience{
+  text-align: left;
+}
+
+.third-container{
+  background-color: #bce6eb;
+}
+
+.middle-container{
+  
+  background-color: #bce6eb;
+}
+
+.bottom-container{
+background-color: #bce6eb;
+}
+.pro{
+  text-decoration: underline;
+
+}
